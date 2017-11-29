@@ -1,0 +1,17 @@
+.carousel{
+  overflow: hidden;
+  height: 800px;
+  width: 100%;
+}
+
+.carousel-item img{
+  margin: 0 auto;
+}
+
+#cat{
+  margin: -15% auto;
+}
+
+.row{
+  margin-bottom: 20px; 
+}
